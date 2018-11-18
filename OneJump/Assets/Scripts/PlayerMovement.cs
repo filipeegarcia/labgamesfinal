@@ -16,19 +16,21 @@ public class PlayerMovement : MonoBehaviour
         rb.AddForce(0, 0, ForcaFrontal * Time.deltaTime);
 
         // Input.GetAxis("horizontal")
-        if (Input.GetKey("d"))
+ 
+        if (Input.GetKey("w"))
         {
 
-            rb.AddForce(ForcaLateral * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
-        }
-
-        if (Input.GetKey("a"))
-        {
-
-            rb.AddForce(-ForcaLateral * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+            rb.AddForce(0, 50 * Time.deltaTime, 0, ForceMode.VelocityChange);
         }
 
         if (rb.position.y < -1f)
+        {
+
+            FindObjectOfType<GameManager>().EndGame();
+
+        }
+
+        if(rb.position.y > 5f)
         {
 
             FindObjectOfType<GameManager>().EndGame();
