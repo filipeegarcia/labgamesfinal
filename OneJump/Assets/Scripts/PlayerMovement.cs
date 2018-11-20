@@ -6,9 +6,9 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public Rigidbody rb;
-    public float ForcaFrontal = 1000f;
+    public float ForcaFrontal = 500f;
     public LayerMask groundLayers;
-    public float jumpForce = 7;
+    public float jumpForce = 20;
 
 
     // Update is called once per frame
@@ -30,12 +30,6 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        if(rb.position.y > 5f)
-        {
-
-            FindObjectOfType<GameManager>().EndGame();
-
-        }
 
     }
 
