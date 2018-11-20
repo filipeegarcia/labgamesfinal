@@ -1404,7 +1404,32 @@ Prefab:
     - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
         type: 2}
       propertyPath: field of view
-      value: 69.20506
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
+        type: 2}
+      propertyPath: m_ClearFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
+        type: 2}
+      propertyPath: m_CullingMask.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
+        type: 2}
+      propertyPath: m_BackGroundColor.r
+      value: 0.08904416
+      objectReference: {fileID: 0}
+    - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
+        type: 2}
+      propertyPath: m_BackGroundColor.g
+      value: 0.5783262
+      objectReference: {fileID: 0}
+    - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
+        type: 2}
+      propertyPath: m_BackGroundColor.b
+      value: 0.8207547
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07769f39d2cee6d47802fed749ee44fe, type: 2}
@@ -2513,7 +2538,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4327209603460544, guid: abd48b49fa4c26d44bc30d93a5096a89, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 2.29
       objectReference: {fileID: 0}
     - target: {fileID: 4327209603460544, guid: abd48b49fa4c26d44bc30d93a5096a89, type: 2}
       propertyPath: m_LocalPosition.z
