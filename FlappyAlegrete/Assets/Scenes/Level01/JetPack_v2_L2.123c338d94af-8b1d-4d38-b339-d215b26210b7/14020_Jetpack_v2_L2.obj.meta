@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: d9ae142e9cd457849ab4c209f2248d61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 14020JetPack_backjetL
+    100004: 14020JetPack_backjetR
+    100006: 14020JetPack_jetL
+    100008: 14020JetPack_jetR
+    100010: 14020JetPack_joystickL
+    100012: 14020JetPack_joystickR
+    100014: 14020JetPack_safetyL
+    100016: 14020JetPack_safetyL001
+    100018: 14020JetPack_seat
+    100020: 14020JetPack_wingL
+    100022: 14020JetPack_wingR
+    400000: //RootNode
+    400002: 14020JetPack_backjetL
+    400004: 14020JetPack_backjetR
+    400006: 14020JetPack_jetL
+    400008: 14020JetPack_jetR
+    400010: 14020JetPack_joystickL
+    400012: 14020JetPack_joystickR
+    400014: 14020JetPack_safetyL
+    400016: 14020JetPack_safetyL001
+    400018: 14020JetPack_seat
+    400020: 14020JetPack_wingL
+    400022: 14020JetPack_wingR
+    2100000: 14020JetPack_backjet
+    2100002: 14020JetPack_jet
+    2100004: 14020JetPack_joystick
+    2100006: 14020JetPack_safety
+    2100008: 14020JetPack_seat
+    2100010: 14020JetPack_wings
+    2300000: 14020JetPack_backjetL
+    2300002: 14020JetPack_backjetR
+    2300004: 14020JetPack_jetL
+    2300006: 14020JetPack_jetR
+    2300008: 14020JetPack_joystickL
+    2300010: 14020JetPack_joystickR
+    2300012: 14020JetPack_safetyL
+    2300014: 14020JetPack_safetyL001
+    2300016: 14020JetPack_seat
+    2300018: 14020JetPack_wingL
+    2300020: 14020JetPack_wingR
+    3300000: 14020JetPack_backjetL
+    3300002: 14020JetPack_backjetR
+    3300004: 14020JetPack_jetL
+    3300006: 14020JetPack_jetR
+    3300008: 14020JetPack_joystickL
+    3300010: 14020JetPack_joystickR
+    3300012: 14020JetPack_safetyL
+    3300014: 14020JetPack_safetyL001
+    3300016: 14020JetPack_seat
+    3300018: 14020JetPack_wingL
+    3300020: 14020JetPack_wingR
+    4300000: 14020JetPack_backjetL
+    4300002: 14020JetPack_backjetR
+    4300004: 14020JetPack_jetL
+    4300006: 14020JetPack_jetR
+    4300008: 14020JetPack_joystickL
+    4300010: 14020JetPack_joystickR
+    4300012: 14020JetPack_safetyL
+    4300014: 14020JetPack_safetyL001
+    4300016: 14020JetPack_seat
+    4300018: 14020JetPack_wingL
+    4300020: 14020JetPack_wingR
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
