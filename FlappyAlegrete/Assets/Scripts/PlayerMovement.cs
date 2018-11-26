@@ -23,14 +23,7 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
         }
 
-        if (rb.position.y < -1f)
-        {
-
-            FindObjectOfType<GameManager>().EndGame();
-
-        }
-
-        if (rb.position.y > 20f)
+        if (rb.position.y > 50f)
         {
 
             FindObjectOfType<GameManager>().EndGame();
