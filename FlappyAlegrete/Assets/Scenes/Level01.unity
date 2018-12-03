@@ -2738,6 +2738,16 @@ Prefab:
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114778839077677556, guid: eb4f746abc0b5ec46ae72dde6ce45426,
+        type: 2}
+      propertyPath: m_Text
+      value: "vOC\xCA CHEGOU "
+      objectReference: {fileID: 0}
+    - target: {fileID: 114996005788471470, guid: eb4f746abc0b5ec46ae72dde6ce45426,
+        type: 2}
+      propertyPath: m_Text
+      value: NA AULA
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb4f746abc0b5ec46ae72dde6ce45426, type: 2}
   m_IsPrefabAsset: 0
@@ -17897,11 +17907,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4276581185710716, guid: 42779d6f10aad754fad1815c34add781, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 70.1
+      value: 37.4
       objectReference: {fileID: 0}
     - target: {fileID: 4276581185710716, guid: 42779d6f10aad754fad1815c34add781, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 460.2
+      value: 454.7
       objectReference: {fileID: 0}
     - target: {fileID: 4276581185710716, guid: 42779d6f10aad754fad1815c34add781, type: 2}
       propertyPath: m_LocalRotation.x
