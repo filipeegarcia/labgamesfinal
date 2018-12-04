@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody rb;
     public float ForcaFrontal = 500f;
     public LayerMask groundLayers;
-    public float jumpForce = 20;
+    public float jumpForce = 18;
 
 
     // Update is called once per frame
@@ -29,8 +29,7 @@ public class PlayerMovement : MonoBehaviour
             FindObjectOfType<GameManager>().EndGame();
 
         }
-
-
+  
     }
 
 }

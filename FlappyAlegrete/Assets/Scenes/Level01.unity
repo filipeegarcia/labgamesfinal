@@ -3969,7 +3969,7 @@ Prefab:
     - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
         type: 2}
       propertyPath: m_ClearFlags
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20170021885183162, guid: 07769f39d2cee6d47802fed749ee44fe,
         type: 2}
@@ -8024,7 +8024,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4327209603460544, guid: abd48b49fa4c26d44bc30d93a5096a89, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 3.15
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4327209603460544, guid: abd48b49fa4c26d44bc30d93a5096a89, type: 2}
       propertyPath: m_LocalRotation.x
@@ -20603,7 +20603,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4276581185710716, guid: 42779d6f10aad754fad1815c34add781, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 454.7
+      value: 454
       objectReference: {fileID: 0}
     - target: {fileID: 4276581185710716, guid: 42779d6f10aad754fad1815c34add781, type: 2}
       propertyPath: m_LocalRotation.x
@@ -22029,6 +22029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1063093242}
+  end: {fileID: 0}
   scoreText: {fileID: 1935813184}
 --- !u!114 &1935813184
 MonoBehaviour:
